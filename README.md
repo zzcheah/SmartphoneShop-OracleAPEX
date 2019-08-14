@@ -6,7 +6,7 @@
 
 ## Preview
 
-ID: STAFF\newline
+ID: STAFF<br />
 PASSWORD: STAFF
 
 ### Login Page
